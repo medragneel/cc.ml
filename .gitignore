@@ -6,3 +6,4 @@ env/*
 *.jpeg
 
 *.h5
+*.sqlite3
