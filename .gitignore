@@ -1,0 +1,8 @@
+.env
+__pycahe__/
+__pycahe__/*
+env/
+env/*
+*.jpeg
+
+*.h5
